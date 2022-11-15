@@ -1,0 +1,21 @@
+1-Tu experiencia trabajando con Java, años ¿Qué Versión 8,11?
+    -> 2.5 años de experiencia
+2-¿cuales son las tecnologías que dominas? Podrías decírmelas en orden de prioridad
+(Por ejemplo: Java,.NET, PHP, JavaScript, Python, Oracle, SQL Server, MySQL, Web Service, entre otros)
+    -> Java, Node.js, React, Angular, PHP, JavaScript, Oracle, SQL Server, MySQL, PostgreSQL y Web Service
+3-Experiencia en Backend* y Frontend* ¿Tiempo y cuales? 
+    Backend
+    -> Java 2.5 años, Node.js 1.5 años 
+    Frontend
+    ->
+4-¿Con qué patrones de arquitectura trabajas?  
+    -> MVC,Singleton, Template Method y Abstract Factory
+5-¿Que base de datos dominas?  
+    -> SQl Server, Oracle, MySQL y PostgreSQL
+6-Ha trabajado con nube Cloud: AWS, GCP o Azure / o solo Onpremise (sin nube)
+    -> AWS y Azure "Conocimientos Basicos"
+7-¿Ha tenido experiencia con metodologías ágiles, microservicios o web service?
+    -> Si
+8-Conoce programación reactiva, cuales:
+    -> Spring Boot
+    -> Spring WebFlux
